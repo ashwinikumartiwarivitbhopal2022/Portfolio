@@ -81,7 +81,7 @@ const Home = () => {
         </div>
         <button className="bg-green-500 hover:bg-green-700 text-white font-bold px-2 py-2 rounded  -mt-1">
           <a
-            href="https://drive.google.com/file/d/1ePAU1bCczl3bbDGTrI-1_pzWWMz4bmzp/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1GsFFRoJU9yJaw6rP8_9St4KaAhj8AblP/view?usp=sharing"
             target="_blank"
           >
             Click Here ! to view RESUME
